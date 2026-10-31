@@ -64,5 +64,154 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-roic-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://roic.ai/
+ROIC.ai provides a free financial data API delivering up to 40+ years of company financial statements, earnings call transcripts, and historical stock-price data. Users can access comprehensive financial metrics across multiple plans, including a free tier with no credit‑card required.
+
+**Areas:** Company · Finance · Data · API · Stock
+
+## roic-ai on APIs.io
+
+Everything profiled for roic-ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/roic-ai/](https://apis.io/providers/roic-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (19)
+
+- [roic-ai Bulk Downloads API](https://apis.io/apis/roic-ai/roic-ai-bulk-downloads-api/) — Pre-generated CSV datasets delivered through short-lived signed URLs.
+- [roic-ai Calendar API](https://apis.io/apis/roic-ai/roic-ai-calendar-api/) — Dated company event resources such as the earnings calendar.
+- [roic-ai Company API](https://apis.io/apis/roic-ai/roic-ai-company-api/) — The Company API from roic-ai — 6 operation(s) for company.
+- [roic-ai Company Events API](https://apis.io/apis/roic-ai/roic-ai-company-events-api/) — Earnings events with their transcripts, audio recordings, slide decks, and filings.
+- [roic-ai Content API](https://apis.io/apis/roic-ai/roic-ai-content-api/) — Company earnings-call and future editorial content resources.
+- [roic-ai Countries API](https://apis.io/apis/roic-ai/roic-ai-countries-api/) — The Countries API from roic-ai — 1 operation(s) for countries.
+- [roic-ai Excel API](https://apis.io/apis/roic-ai/roic-ai-excel-api/) — The Excel API from roic-ai — 2 operation(s) for excel.
+- [roic-ai Exchanges API](https://apis.io/apis/roic-ai/roic-ai-exchanges-api/) — The Exchanges API from roic-ai — 1 operation(s) for exchanges.
+- [roic-ai Forex API](https://apis.io/apis/roic-ai/roic-ai-forex-api/) — Currency pair reference data and foreign-exchange rate resources.
+- [roic-ai Fundamental API](https://apis.io/apis/roic-ai/roic-ai-fundamental-api/) — The Fundamental API from roic-ai — 11 operation(s) for fundamental.
+- [roic-ai Fundamentals API](https://apis.io/apis/roic-ai/roic-ai-fundamentals-api/) — Financial statements, ratios, and valuation resources.
+- [roic-ai Industries API](https://apis.io/apis/roic-ai/roic-ai-industries-api/) — The Industries API from roic-ai — 1 operation(s) for industries.
+- [roic-ai Market Data API](https://apis.io/apis/roic-ai/roic-ai-market-data-api/) — Historical and current market data resources.
+- [roic-ai Reference Data API](https://apis.io/apis/roic-ai/roic-ai-reference-data-api/) — Ticker identity and discovery resources.
+- [roic-ai Sectors API](https://apis.io/apis/roic-ai/roic-ai-sectors-api/) — The Sectors API from roic-ai — 1 operation(s) for sectors.
+- [roic-ai Stock Prices API](https://apis.io/apis/roic-ai/roic-ai-stock-prices-api/) — The Stock Prices API from roic-ai — 2 operation(s) for stock prices.
+- [roic-ai Stock Splits API](https://apis.io/apis/roic-ai/roic-ai-stock-splits-api/) — The Stock Splits API from roic-ai — 2 operation(s) for stock splits.
+- [roic-ai Tickers API](https://apis.io/apis/roic-ai/roic-ai-tickers-api/) — The Tickers API from roic-ai — 7 operation(s) for tickers.
+- [roic-ai Usage API](https://apis.io/apis/roic-ai/roic-ai-usage-api/) — The Usage API from roic-ai — 1 operation(s) for usage.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Roic Ai Agentic Access](https://apis.io/agentic-access/roic-ai/roic-ai-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [v3.BalanceSheetFinancialPeriodList](https://apis.io/schemas/roic-ai/roic-ai-v3-balance-sheet-financial-period-list/)
+- [v3.CashFlowFinancialPeriodList](https://apis.io/schemas/roic-ai/roic-ai-v3-cash-flow-financial-period-list/)
+- [v3.CompanyEventList](https://apis.io/schemas/roic-ai/roic-ai-v3-company-event-list/)
+- [v3.CompanyProfile](https://apis.io/schemas/roic-ai/roic-ai-v3-company-profile/)
+- [v3.IncomeStatementFinancialPeriodList](https://apis.io/schemas/roic-ai/roic-ai-v3-income-statement-financial-period-list/)
+- [v3.ValuationMultiplesFinancialPeriodList](https://apis.io/schemas/roic-ai/roic-ai-v3-valuation-multiples-financial-period-list/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Roic Ai Context](https://apis.io/jsonld/roic-ai/roic-ai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [roic-ai API Rules](https://apis.io/rules/roic-ai/roic-ai-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Roic Ai Authentication](https://apis.io/security/roic-ai/roic-ai-authentication/)
+- [Roic Ai Domain Security](https://apis.io/security/roic-ai/roic-ai-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Roic Ai Plans Pricing](https://apis.io/plans/roic-ai/roic-ai-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Roic Ai Rate Limits](https://apis.io/rate-limits/roic-ai/roic-ai-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://roic.ai/)
+- [Documentation](https://www.roic.ai/api/docs)
+- [Getting started](https://www.roic.ai/api/docs/getting-started)
+- [API reference](https://www.roic.ai/api/docs)
+- [Pricing](https://www.roic.ai/pricing)
+- [Sign up](https://www.roic.ai/signup)
+- [Changelog](https://www.roic.ai/changelog)
+- [Blog](https://www.roic.ai/blog)
+- [Terms of service](https://www.roic.ai/tos)
+- [Status](https://status.roic.ai)
+
+## API Evangelist rating
+
+**Kin Score 61.2** — strong · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.7 |
+| Contract quality | 50.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 60.0 |
+| Developer ergonomics | 56.4 |
+| Access clarity | 62.6 |
+
+**Agent readiness 53.6** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 20.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/roic-ai/](https://apis.io/providers/roic-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for roic-ai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/roic-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
